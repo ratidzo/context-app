@@ -1,0 +1,14 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: rgb(121, 29, 191);
+}
+
+.section {
+    padding: 2rem;
+    margin: 2rem;
+    border: 4px solid darkgrey;
+    border-radius: 8px;
+}
