@@ -2,7 +2,6 @@ import './App.css';
 import Heading from './components/Heading';
 import Section from './components/Section';
 
-
 function App() {
   return (
     <Section>
