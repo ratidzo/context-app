@@ -4,7 +4,7 @@ import Section from './components/Section';
 
 function App() {
   return (
-    <Section>
+    <Section level={1}>
       <Heading>Title</Heading>
 
       <Section level={2}>
