@@ -1,4 +1,4 @@
-export function Section({ children }) {
+export default function Section({ children }) {
 
     return (
         <section className="section">
