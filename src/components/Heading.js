@@ -1,4 +1,4 @@
-export default function ( { level, children }) {
+export default function Heading ( { level, children }) {
 
     switch (level) {
         case 1: 
